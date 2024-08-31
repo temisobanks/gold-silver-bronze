@@ -1,0 +1,87 @@
+#white-box{
+    background-color: white;
+    width: 550px; 
+    height: 1300px; 
+    margin: 40px auto; 
+    border-radius: 20px; 
+    padding: 20px;
+    text-align: inherit;
+}
+
+#white-box img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+#white-box h1{
+    font-family: blithe;
+    font-size: 35px;
+    line-height: 20px;
+}
+
+#white-box{
+    font-family: calibri;
+    font-size: 15px;
+}
+
+#box{
+    background-color: rgb(244, 240, 244);
+    width: 500px;
+    margin: 30px auto; 
+    padding: 20px;
+    border-radius: 10px;
+    height: 110px;
+}
+
+#box h1{
+    color: rgb(142, 4, 4);
+    padding-top: 0 auto;
+    margin: 0 auto;
+    font-size: 15px;
+    font-family: arial;
+}
+
+#box li{
+    color: black;
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+#page h1{
+    line-height: 5px;
+    color: rgb(129, 2, 2);
+    font-size: 25px; 
+    font-family: garamond;
+    padding-top: 5px;
+}
+
+#page ul{
+    padding-left: 20px;
+}
+
+#page li{
+    padding-left: 10px;
+    font: 10px;
+    padding-top: 8px;
+}
+
+#rules h1{
+    color: brown;
+    font-family: serif;
+    font-size: 25px;
+}
+
+#rules ol{
+    padding-left: 20px;
+}
+
+#rules li{
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+#lines h1{
+    color: brown;
+    font: serif;
+    font-size: 25px;
+}
